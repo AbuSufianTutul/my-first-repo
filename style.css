@@ -3,4 +3,6 @@ h4{
 }
 body{
     background-color: chartreuse;
+    width: 50%;
+    height: 100px;
 }
